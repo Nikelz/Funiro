@@ -1,4 +1,4 @@
 # Funiro
-Link on Netlify:
+Link to Page:
 
 https://trf-funiro.netlify.app/
